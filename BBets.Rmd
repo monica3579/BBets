@@ -1,6 +1,6 @@
 ---
 title: "Brownlows Bets"
-author: "Put your name here!"
+author: "Monica Avila"
 date: "put the date here"
 output: html_document: default
  ---
@@ -19,6 +19,7 @@ I will make a sequence to represent the students and their birthdays that Brownl
 
 <!--Decide on your methods:  In this section explain the approach you will take to attack the issue --- how will you decide on a likely estimate of professor Brownlow's earnings or losses after 1137 bets. Also explain how you construct a 95% confidence interval about your estimate of his winnings !-->
 
+I will first make A sequence on numbers from 1-365 to represent all the possible birthdays the students have. Then I will make another sequence of 35 to represent and use that as a sample from the 365. 
 
 #Profit Estimate
 
