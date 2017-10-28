@@ -27,6 +27,7 @@ I will first make A sequence on numbers from 1-365 to represent all the possible
 
 <!--Explain and display the results of your method of coming up with the estimate of professor Brownlows betting!-->
 
+Once I get the general information of the data test,I will then Run the test a thousand times. This will allow me to get a more accurate answer of brownlows test and also get an accuret mean. Doing this will also, provide the standard deviation of the test. the functions I created can pruduce brownlows test multiple times with possible answers that he would have recieved. Doing this test I can assumethat Brownlow will win a majority of the bets against the students and will make a big profit.   
 
 # Confidence interval of Brownlows earning
 
