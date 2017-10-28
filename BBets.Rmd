@@ -39,3 +39,4 @@ Now that I have all test in order from lowest to highest, I can then take the mi
 
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
+in order for brownlow to have a zero profit he would have to have a very small class of about 6 students. this allowes brownlow to 
