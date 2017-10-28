@@ -33,6 +33,7 @@ Once I get the general information of the data test,I will then Run the test a t
 
 <!--Explain and display your method of coming up with a 95% confidence interval of  professor Brownlows-->
 
+Now that I have all test in order from lowest to highest, I can then take the middle 95% of the data and get the mean. The standard deviation will be of the sample tests. I want to have the mean of all the test and not just the middle standard deviation so it will be more accuret. If I were to do the mean of the middle, the number would not change much and eventually stay the same.  
 
 # Discussion and Conclusion
 
